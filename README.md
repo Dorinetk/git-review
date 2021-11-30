@@ -1,4 +1,4 @@
 # git-review
 
 ## Contributors
-Dorine Ketchiozo
+Dorine N. Ketchiozo
